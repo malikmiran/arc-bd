@@ -6,7 +6,9 @@ Open below URL on your browser to install the addon.
 ```
 stremio://raw.githubusercontent.com/stremio-arc/arc/refs/heads/main/addon/manifest.json
 ```
-[Install (Web)](https://web.stremio.com/#/addons?addon=https://raw.githubusercontent.com/stremio-arc/arc/refs/heads/main/addon/manifest.json)
+[Install (Web)](https://web.stremio.com/#/addons?addon=https://raw.githubusercontent.com/malikmiran/arc-bd/refs/heads/main/addon/manifest.json)
+
+
 
 ## Adding Streams
 If you want to add new streams, please raise a pull request.
